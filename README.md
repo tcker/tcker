@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ramchrist@gmail.com**
 
-- ⚡ Fun fact **A man does not need a sword.**
+- ⚡ Fun fact **There is nothing outside of yourself that can ever enable you to get better, stronger, richer, quicker, or smarter.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
