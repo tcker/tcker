@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ram Baarde</h1>
 <h3 align="center">Aspiring Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6b/2f/92/6b2f92b18146651897ea4e4df4bf39be.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1908599/screenshots/11122765/media/481ccdcc9f3e8ef4d8d6996366da5c9b.gif">
 
 
 - 💬 Ask me about **Android Development**
