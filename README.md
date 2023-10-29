@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/064/331/576/original/yagiz-durkaya-capybara2.gif?1687693682">
 
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Android Development** 👨‍💻
 
 - 📫 How to reach me **ramchrist@gmail.com**
 
-- ⚡ Fun fact **Do nothing useless.**
+- 👁 Quote **Do nothing useless.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
