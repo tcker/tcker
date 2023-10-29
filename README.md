@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ramchrist@gmail.com**
 
-- 👁 Quote **Do nothing useless.**
+- 👁 **Do nothing useless.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
