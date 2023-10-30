@@ -1,4 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0F79FF&background=FFFFFF00&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ram+Baarde+">
+
+
+
 <h3>Aspiring Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/064/331/576/original/yagiz-durkaya-capybara2.gif?1687693682">
 
@@ -36,4 +39,4 @@
 
 <br/>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
