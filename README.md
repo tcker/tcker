@@ -2,16 +2,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/064/331/576/original/yagiz-durkaya-capybara2.gif?1687693682">
 
-
-- 💬 Ask me about **Android Development** 👨‍💻
-
-- 📫 How to reach me **ramchrist@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ram-christopher-baarde-b1b531289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ram-christopher-baarde-b1b531289" height="30" width="40" /></a>
-</p>
-
 ---
 
 ### 🧰 Languages and Tools
