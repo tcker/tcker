@@ -1,6 +1,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0F79FF&background=FFFFFF00&random=false&width=435&lines=+Ram+Baarde+">
 <div>
-<img align="right" alt="Coding" width="400" src="https://i.redd.it/2rlic7iuqy2b1.gif">
+
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/8d17690cbf3514b89a9d6661755dd46a/tumblr_pox6mcyS5u1wi54dwo1_1280.gif">
+
 </div>
 
 
