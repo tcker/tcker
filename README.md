@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0F79FF&background=FFFFFF00&random=false&width=435&lines=+Ram+Baarde+">
 <div>
-<img align="right" alt="Coding" width="400" src="https://i.redd.it/3ex9hc3k8nx81.gif">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5882a13517bffc09e39be804/1635391349048-X6OMV9Y8CNIRAU7SET3W/AlphoseStreamBuddy.gif?format=300w">
 </div>
 
 
