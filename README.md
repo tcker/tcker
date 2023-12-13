@@ -1,5 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0F79FF&background=FFFFFF00&random=false&width=435&lines=+Ram+Baarde+">
-<div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Coursier+New&size=30&color=0F79FF&center=true&vCenter=true&width=600&height=100&lines=Ram+Baarde;Android+App+Developer;Full-Stack+Developer;Video+Editor)](https://git.io/typing-svg)
+
 
 <img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1271811a-34b3-4052-99f3-a426cd346bed/dele28u-4029c7e2-cf51-4dce-8aa2-f17fe85cd104.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyNzE4MTFhLTM0YjMtNDA1Mi05OWYzLWE0MjZjZDM0NmJlZFwvZGVsZTI4dS00MDI5YzdlMi1jZjUxLTRkY2UtOGFhMi1mMTdmZTg1Y2QxMDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BwfYcADJpY9cYxqy7wJ15Dd3mxp6UcnOIyx24200Kmw">
 
