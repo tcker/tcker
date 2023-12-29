@@ -1,3 +1,14 @@
+<pre align="center">
+██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗
+██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝
+██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  
+██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  
+╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗
+ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
+       
+   </pre>                                                                                             
+
+ </div>
 <h1 align="center">
        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&size=32&duration=2000&pause=1000&color=E34234&center=true&vCenter=true&random=false&width=463&height=55&lines=%F0%9F%91%8B+Hello!+I+am+Ram+Baarde;Android+App+Developer;Full-Stack+Developer;Video+Editor" alt="Typing SVG" /></a>
 </h1>
