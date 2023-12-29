@@ -8,7 +8,8 @@
  
 🚩 This is the place where I upload my programs on **GitHub**
  
-🎯 Quote: He who has a why to live can bear almost any how. **-Nietzsche**
+🎯 Quote: He who has a why to live can bear almost any how. 
+**-Nietzsche**
 
  </div>
 <h3 align="center">Connect with me:</h3>
