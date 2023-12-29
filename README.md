@@ -46,6 +46,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50px" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50px" height="40px"/>
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" width="60px" height="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60px" height="50px"/>
+          
 </div>
 
 
