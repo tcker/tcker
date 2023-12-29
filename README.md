@@ -4,7 +4,7 @@
 
 <div align="center">
  
-🚩 This is the place where I put my programs on **GitHub**
+🚩 This is the place where I upload my programs on **GitHub**
  
 ⚡ Quote: He who has a why to live can bear almost any how. **-Nietzsche**
 
