@@ -36,7 +36,9 @@
   <a href="https://www.youtube.com/watch?v=UjsT6nZ8-cY" target="_blank">
     <img src="https://img.shields.io/badge/My Resume-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank" />
   </a>
-
+  <a href="https://www.youtube.com/watch?v=UjsT6nZ8-cY" target="_blank">
+     <img src="https://img.shields.io/badge/My Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
 
 ---
 
