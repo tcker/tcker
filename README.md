@@ -15,7 +15,7 @@
        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&size=37&duration=2000&pause=1000&color=E34234&center=true&vCenter=true&random=false&width=463&height=55&lines=Hello!+I+am+Ram+Baarde; An+Android+App+Developer;Android+Full-Stack+Developer;A+Web+Developer;A+Video+Editor" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">An Web & App developer from Philippines 🇵🇭</h3>
+<h3 align="center">A Web & App developer from Philippines 🇵🇭</h3>
 
 <div align="center">
  
