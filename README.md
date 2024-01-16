@@ -21,9 +21,6 @@
  
 🚩 This is the place where I upload my programs on **GitHub**
  
-🎯 He who has a why to live can bear almost any how. 
-**-Nietzsche**
-
  </div>
 <h3 align="center">Collab & Connect with me:</h3>
 <div align="center"> 
