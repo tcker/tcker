@@ -12,7 +12,7 @@
    </pre>                                                                                             
 
 <h1 align="center">
-       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&size=37&duration=2000&pause=1000&color=E34234&center=true&vCenter=true&random=false&width=463&height=55&lines=Hello!+I+am+Ram+Baarde; An+Android+App+Developer;A+Web+Developer" alt="Typing SVG" /></a>
+       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&size=37&duration=2000&pause=1000&color=888888&center=true&vCenter=true&random=false&width=463&height=55&lines=Hello!+I+am+Ram+Baarde; An+Android+App+Developer;A+Web+Developer" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A Web & App developer from Philippines 🇵🇭</h3>
