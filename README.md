@@ -22,21 +22,24 @@
  
 🚩 This is the place where I upload my programs on **GitHub**
  
- </div>
-<h3 align="center">Collab & Connect with me:</h3>
-<div align="center"> 
-  <a href="https://www.youtube.com/watch?v=UjsT6nZ8-cY" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank" />
-  </a>
+<div align="center">
+  <h3>Collab & Connect with me:</h3>
   <a href="https://www.linkedin.com/in/ram-christopher-baarde-b1b531289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-   <a href="mailto:ramchrist20@gmail.com">
+  <a href="mailto:ramchrist20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+</div>
+
+<div align="center">
   <a href="https://www.youtube.com/watch?v=UjsT6nZ8-cY" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+    <img src="https://img.shields.io/badge/Resume-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.youtube.com/watch?v=UjsT6nZ8-cY" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+</div>
 
 
 
