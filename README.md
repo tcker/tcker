@@ -1,4 +1,18 @@
 
+<pre align="center">
+ __      __          ___                                        
+/\ \  __/\ \        /\_ \                                       
+\ \ \/\ \ \ \     __\//\ \     ___    ___     ___ ___      __   
+ \ \ \ \ \ \ \  /'__`\\ \ \   /'___\ / __`\ /' __` __`\  /'__`\ 
+  \ \ \_/ \_\ \/\  __/ \_\ \_/\ \__//\ \L\ \/\ \/\ \/\ \/\  __/ 
+   \ `\___x___/\ \____\/\____\ \____\ \____/\ \_\ \_\ \_\ \____\
+    '\/__//__/  \/____/\/____/\/____/\/___/  \/_/\/_/\/_/\/____/
+                                                                
+                                                                
+                                                           
+   </pre>                                                                                             
+
+
 <h1 align="center">
        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&size=37&duration=2000&pause=1000&color=CC0000&center=true&vCenter=true&random=false&width=463&height=55&lines=Hello!+I+am+Ram+Baarde; An+Android+App+Developer;A+Web+Developer" alt="Typing SVG" /></a>
 </h1>
