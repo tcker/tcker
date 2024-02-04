@@ -73,7 +73,7 @@
           
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📊 Stats 📊</h2>
 <br>
 <div align=center>
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=tcker&show_icons=true&theme=dark" />
