@@ -44,9 +44,9 @@
 
 
 
-
 <div align="center">
-<h2 align="center">🧰 Languages and Frameworks</h2>
+  <h2 align="center">🧰 Languages and Frameworks</h2>
+  <div style="display: flex; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50px" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="50px" height="40px"/>
@@ -54,8 +54,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50px" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" height="40px"/>
-</div>
-<div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="50px" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="50px" height="40px"/>
@@ -63,13 +61,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="50px" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="50px" height="40px"/>
-</div>
-<div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="50px" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50px" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50px" height="40px"/>
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" width="60px" height="50px"/>
-    
+  </div>
+</div>
+
+
+
           
 </div>
 
