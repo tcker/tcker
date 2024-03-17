@@ -37,7 +37,7 @@
   <a href="https://www.youtube.com/watch?v=UjsT6nZ8-cY" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:ramchrist20@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=ramchrist20@gmail.com&tf=cm">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
