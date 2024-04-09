@@ -1,9 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Br3y" />                                                                                     
-
-
-<p align="center">
-  <img src="https://github.com/tcker/tcker/main/images/github-header-image" alt="header">
-</p>
+                                                                                
 
 <h1 align="center">
        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&size=37&duration=2000&pause=1000&color=CC0000&center=true&vCenter=true&random=false&width=463&height=55&lines=Hello!+I+am+Ram+Baarde; An+Android+App+Developer;A+Web+Developer" alt="Typing SVG" /></a>
