@@ -62,7 +62,7 @@
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rails" alt="rails" width="40" height="40"/> </a>
       <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/> </a>
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a>
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
     </p>
   </div>
 
