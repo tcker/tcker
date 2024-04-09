@@ -79,6 +79,6 @@
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcker&layout=compact&theme=vision-friendly-dark" />
 </div>
 
-<br/>
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&descAlign=0&descAlignY=0&section=footer"/>
