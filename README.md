@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tcker/tcker/blob/main/images/github-header-image (1).png" alt="Logo">
+  <img src="https://github.com/tcker/tcker/blob/main/images/github-header-image%20(2).png" alt="header">
 </p>
                                                                                 
 
