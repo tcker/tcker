@@ -79,6 +79,6 @@
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcker&layout=compact&theme=vision-friendly-dark" />
 </div>
 
-
+<a href="https://app.daily.dev/tcker"><img src="https://api.daily.dev/devcards/v2/zTT1mux41rUX7LwWAdmqG.png?type=wide&r=pbf" width="652" alt="Ram Baarde's Dev Card"/></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&descAlign=0&descAlignY=0&section=footer"/>
