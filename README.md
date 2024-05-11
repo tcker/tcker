@@ -75,7 +75,7 @@
 <br>
 <div align=center>
 
-<img width=360 src="https://gh-readme-profile.vercel.app/api?username=tcker&theme=vision-friendly-dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=tcker&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="tcker" width="395" />
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcker&layout=compact&theme=vision-friendly-dark" />
 </div>
 
