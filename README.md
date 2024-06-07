@@ -56,7 +56,6 @@
     </p>
     <p align="center">
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/> </a>
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/> </a>
