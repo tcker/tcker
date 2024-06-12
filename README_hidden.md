@@ -1,4 +1,4 @@
-https://gist.github.com/hunghg255/c50845c1c3b267c4a1755f33e8cd5331
+// Make readme profile displayed again just rename the readme_hidden.md into readme.md 
 
 <p align="center">
   <img src="https://github.com/tcker/tcker/blob/main/images/github-header-image git6.png" alt="header">
